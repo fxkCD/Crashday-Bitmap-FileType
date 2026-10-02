@@ -11,7 +11,9 @@ Required version: Paint.NET 4.3 or newer
 
 ## Installation
 Build or download `.dll` from the releases and put it into:
+
 **\paint.net\FileTypes** - for default version and installation for all users
+
 **C:\Users\username\Documents\paint.net App Files** - for Microsoft Store version or installation for local user
 
 **Crashday Bitmap (`*.cbm`)** will appear in the Open and Save dialogs. You can also open them directly
